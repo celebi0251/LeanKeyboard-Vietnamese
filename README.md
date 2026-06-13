@@ -1,8 +1,8 @@
 
-> This is a modified version of LeanKeyboard, featuring Vietnamese Telex Typing and Google Voice Typing. Designed for Android TV with mouse support.
-
-
 > Đây là phiên bản chỉnh sửa của ứng dụng LeanKeyboard hỗ trợ gõ tiếng Việt kiểu Telex và nhập bằng giọng nói của Google. Bàn phím dành cho Android TV có hỗ trợ dùng chuột
+
+
+> This is a modified version of LeanKeyboard, featuring Vietnamese Telex Typing and Google Voice Typing. Designed for Android TV with mouse support.
 
 ![Logo of LeanKeyboard](img/leankeykeyboard_logo_small.png "Logo of LeanKeyboard") LeanKeyboard
 =========
