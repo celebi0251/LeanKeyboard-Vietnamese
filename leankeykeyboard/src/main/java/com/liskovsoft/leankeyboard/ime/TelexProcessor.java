@@ -204,6 +204,9 @@ public class TelexProcessor {
                         newInitial= newInitial.replace(charInVowel, 'd');
                     }
                     isRemove = "t";
+                } else {
+                    ic.commitText(input, 1);
+                    return;
                 }
                 if (toneMark != "") {
                     newVowel = addTone(wordSegment.get(2),toneMark,"");
